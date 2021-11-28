@@ -1,25 +1,25 @@
-<img width="300px" align="right" src="https://user-images.githubusercontent.com/70/88545351-2adc5a80-d01b-11ea-8b1d-940d411e1b3a.jpg"/>
+<img width="300px" align="right" src="./docs/img/dog.jpg"/>
 
-### 👋 Scott's GitHub Profile 👋
+### 👋 Hallo, Je suis Marfullsen! 👋
 
-Hey there, my name is Scott Chacon and I was one of the cofounders of [this here site](https://github.com) you're using right this very minute. I wrote the [Pro Git book](https://git-scm.com/book/en/v2) and the [Git website](https://git-scm.com/). 
+Hey there, my name is Francisco, alias [Marfullsen](marfullsen.github.io/), I'm a software developer, currently learning Vue3 with VueCLI & VueRouter, as you might guess, I'm very interested in FrontEnd.
 
-Now I live in Berlin, [investing](https://scne.io) in cool companies and trying to help the world [learn new languages](https://chatterbug.com).
+- 💻 I’m currently working on [TSOFT](https://www.tsoftglobal.com/).
+- 🌱 I’m currently learning Vue.js and German 🇩🇪.
+- 📌 I’m looking for people to talk about casual projects and ideas to develop.
+- 💬 Ask me about learning languages, developing projects, teaching or coding.
+- 📫 How to reach me: [marfullsen@gmail.com](mailto:marfullsen@gmail.com) or Twitter [@marfullsen](https://twitter.com/marfullsen)
+- ⚡ <i>Stop looking for motivation and start aiming for discipline.</i> 🤟
 
-- 💻 I’m currently working on [Chatterbug](https://chatterbug.com) and [SCNE](https://scne.io)
-- 🌱 I’m currently learning German and React
-- 🤔 I’m looking for people building great product in Berlin
-- 💬 Ask me about Berlin, Git, wine, German or learning languages
-- 📫 How to reach me: schacon@gmail.com or Twitter [@chacon](twitter.com/chacon)
-- ✍️ I blog on [Medium](https://medium.com/@chacon) sometimes
+### 🌎 Languages 🌎
 
-### 🌎 My Languages 🌎
+Lang | LvL
+--- | :---:
+🇲🇽 Spanish | Native.
+🇺🇸 English | B1.
+🇩🇪 German | A2.
+🇫🇷 French | *oui oui*
 
-- 🇺🇸 English: Native
-- 🇩🇪 German: B2
-- 🤟 ASL: ~B1
-- 🇫🇷 French: A2
-- 🇲🇽 Spanish: A1
-- 🇯🇵 Japanese: ありがとうございます (that's it, that's all of my Japanese)
-
-[What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+<p align="center">
+    <img src="https://profile-counter.glitch.me/Marfullsen/count.svg"/>
+</p>
