@@ -34,6 +34,11 @@ Lang | LvL
 ![](https://github-readme-stats.vercel.app/api?username=Marfullsen&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marfullsen&theme=vue-dark&layout=compact)
 
-<p align="center">
+
+<details>
+  <summary> More things </summary>
+  <br>
+  <p align="center">
     <img src="https://profile-counter.glitch.me/Marfullsen/count.svg" />
-</p>
+  </p>
+</details>
