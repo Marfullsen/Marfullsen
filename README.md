@@ -11,12 +11,12 @@
 
 </div>
 
-Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, currently learning React.js, Preact & Next.js, as you might guess, I'm very interested in web development.
+Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, I love working everyday with Vue.js, Vite and Django, as you might guess, I'm very interested in web development.
 
 - 💻 I’m currently working at [Vinken](https://vinken.cl/).
-- 🌱 I’m currently learning Next.js, Nuxt.js, Vite and German 🇩🇪.
-- 📌 I’m looking for people to talk about casual projects and ideas to develop.
-- 💬 Ask me about learning languages, developing projects, teaching or coding.
+- 🌱 I’m currently taking some virtual courses and learning German 🇩🇪.
+- 📌 I’m looking for people to talk about innovative ideas and projects to develop.
+- 💬 Ask me about developing projects, learning languages, teaching, traveling or coding.
 - 📫 How to reach me: [marfullsen@gmail.com](mailto:marfullsen@gmail.com) or Discord [Frem#8567](https://discordapp.com/users/555570275060547630/)
 - ⚡ <i>Stop looking for motivation and start aiming for discipline.</i> 🤟
 
