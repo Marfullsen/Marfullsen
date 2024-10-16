@@ -11,7 +11,7 @@
 
 </div>
 
-Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, I love working everyday with Vue.js, Vite and Django, as you might guess, I'm very interested in web development. Currently exploring new horizons in fields such as video game development with engines like Godot, Unity and GameMaker.
+Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, interested in web development. Currently exploring new horizons in fields such as video game development with engines like Godot, Unity and GameMaker.
 
 - 💻 I’m currently studying Computer Engineering at DuocUC.
 - 🌱 I’m currently exploring 3D modeling and the principles of augmented reality.
