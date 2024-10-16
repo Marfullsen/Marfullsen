@@ -11,11 +11,11 @@
 
 </div>
 
-Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, I love working everyday with Vue.js, Vite and Django, as you might guess, I'm very interested in web development.
+Hey there, my name is Francisco, alias [Marfullsen](https://marfullsen.github.io/), I'm a software developer, I love working everyday with Vue.js, Vite and Django, as you might guess, I'm very interested in web development. Currently exploring new horizons in fields such as video game development with engines like Godot, Unity and GameMaker.
 
-- 💻 I’m currently working at [Vinken](https://vinken.cl/).
-- 🌱 I’m currently taking some virtual courses and learning German 🇩🇪.
-- 📌 I’m looking for people to talk about innovative ideas and projects to develop.
+- 💻 I’m currently studying Computer Engineering at DuocUC.
+- 🌱 I’m currently exploring 3D modeling and the principles of augmented reality.
+- 📌 I’m looking for entrepreneurs to talk about innovative ideas and projects to develop.
 - 💬 Ask me about developing projects, learning languages, teaching, traveling or coding.
 - 📫 How to reach me: [marfullsen@gmail.com](mailto:marfullsen@gmail.com) or Discord [Frem#8567](https://discordapp.com/users/555570275060547630/)
 - ⚡ <i>Stop looking for motivation and start aiming for discipline.</i> 🤟
