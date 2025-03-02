@@ -4,7 +4,7 @@
 
 <div align="center">
     
-[![Linkedin Badge](https://img.shields.io/badge/francisco--marfull--pizarro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-marfull-pizarro/)
+[![Linkedin Badge](https://img.shields.io/badge/francisco--marfull-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-marfull/)
 [![](https://img.shields.io/badge/marfullsen-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat)](https://twitter.com/Marfullsen)
 [![](https://visitor-badge.glitch.me/badge?page_id=github.com/Marfullsen)](https://visitor-badge.glitch.me/)
 [![](https://img.shields.io/github/followers/Marfullsen.svg?style=social&label=Followers)](https://github.com/Marfullsen?tab=following)
